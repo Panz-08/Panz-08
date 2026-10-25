@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Halo,+Saya+Web+Developer!;Suka+dengan+Open+Source;Selamat+Datang+di+Profil+Saya!)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dpenc3MXo2cGwwemFwMTRqdG5wODB6Y251eGQxNnZhZWQ3MXg4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9EUjcUOT1aYE/giphy.gif" alt="Konata Izumi" width="250px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY1bWd1ajM1NTN2d2FseDU5dWVmN2gzdTM2cDg0emZpaTczaGpvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvmbZRpwDoTny/giphy.gif" alt="Konata Izumi" width="250px" />
 </p>
 
 ### 🛠 Tech Stack Saya:
