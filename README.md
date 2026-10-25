@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Halo,+Saya+Web+Developer!;Suka+dengan+Open+Source;Selamat+Datang+di+Profil+Saya!)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFl..." width="100%" height="200px" />
