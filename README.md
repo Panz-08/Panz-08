@@ -19,6 +19,10 @@ Here are some ideas to get you started:
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY1bWd1ajM1NTN2d2FseDU5dWVmN2gzdTM2cDg0emZpaTczaGpvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvmbZRpwDoTny/giphy.gif" alt="Konata Izumi" width="500px" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/fYxLHEAOWqEXK/giphy.gif" alt="Tetris Animation" width="400px" />
+</p>
+
 ### 🛠 Tech Stack Saya:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
