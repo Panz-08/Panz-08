@@ -1,5 +1,5 @@
 <!--
-  ✨ Profile README — Panz-08
+  ✨ Profile README - Panz-08
   Tema: Neon Purple × Cyan
   Ganti link sosial media di bagian "Let's Connect" sesuai kebutuhan.
 -->
@@ -26,16 +26,16 @@
   <tr>
     <td width="58%" valign="top">
       <h2>👋 Tentang Saya</h2>
-      <p>Halo! Aku <b>Panzy</b> — developer yang suka membangun hal-hal seru di web, API, dan game.</p>
+      <p>Halo! Aku <b>Panzy</b> - developer yang suka membangun hal-hal seru di web, API, dan game.</p>
       <ul>
-        <li>🔭 Sedang mengembangkan <b>Lembar</b> — platform baca komik &amp; novel</li>
+        <li>🔭 Sedang mengembangkan <b>Lembar</b> - platform baca komik &amp; novel</li>
         <li>🌱 Mendalami <b>Next.js</b>, <b>TypeScript</b>, dan <b>Godot Engine</b></li>
         <li>🛠️ Suka bikin <b>API scraping</b> multi-sumber &amp; tool otomatis</li>
         <li>🎮 Hobi ngulik <b>game development</b> pakai GDScript</li>
         <li>🎌 Anime, manga, dan light novel enthusiast</li>
         <li>⚡ Fun fact: bisa ngoding sambil dengerin OST anime 🎧</li>
       </ul>
-      <blockquote>「 Code, coffee, and anime — the perfect stack. 」</blockquote>
+      <blockquote>「 Code, coffee, and anime - the perfect stack. 」</blockquote>
     </td>
     <td width="42%" valign="top">
       <img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY1bWd1ajM1NTN2d2FseDU5dWVmN2gzdTM2cDg0emZpaTczaGpvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvmbZRpwDoTny/giphy.gif" alt="Konata Izumi" />
@@ -115,7 +115,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>⚔️ Web-Based Strategy Game</h3>
-      <p>Game strategi berbasis web — eksperimen seru di dunia game development dengan TypeScript.</p>
+      <p>Game strategi berbasis web - eksperimen seru di dunia game development dengan TypeScript.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Game-7C3AED?style=flat-square&logo=gamepad&logoColor=white" />
