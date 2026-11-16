@@ -29,7 +29,8 @@
       <p>Halo! Aku <b>Panzy</b> - developer yang suka membangun hal-hal seru di web, API, dan game.</p>
       <ul>
         <li>🔭 Sedang mengembangkan <b>Lembar</b> - platform baca komik &amp; novel</li>
-        <li>🌱 Mendalami <b>Next.js</b>, <b>TypeScript</b>, dan <b>Godot Engine</b></li>
+        <li>🪄 Baru rilis <b>Sorcerer</b> - konverter file &amp; dokumen untuk terminal (Rust + ratatui)</li>
+        <li>🌱 Mendalami <b>Rust</b>, <b>Next.js</b>, <b>TypeScript</b>, dan <b>Godot Engine</b></li>
         <li>🛠️ Suka bikin <b>API scraping</b> multi-sumber &amp; tool otomatis</li>
         <li>🎮 Hobi ngulik <b>game development</b> pakai GDScript</li>
         <li>🎌 Anime, manga, dan light novel enthusiast</li>
@@ -55,7 +56,7 @@
 
 **Backend &amp; API**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres&theme=dark" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,rust,mysql,postgres&theme=dark" alt="Backend stack" />
 
 **Game Dev**
 
@@ -92,6 +93,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🪄 Sorcerer</h3>
+      <p>Konverter file &amp; dokumen serba bisa untuk terminal. Binary <code>sorce</code>, TUI penuh ratatui, 44 format, merge PDF, dan batch paralel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/ratatui-7C3AED?style=flat-square&logo=terminal&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI%20%2B%20TUI-06B6D4?style=flat-square&logo=gnubash&logoColor=white" />
+      </p>
+      <a href="https://github.com/Panz-08/sorcerer"><b>→ Lihat Repo</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>📚 Lembar</h3>
       <p>Baca komik &amp; novel dengan tampilan rapi. Pembaca novel dengan teks lengkap dan tipografi yang nyaman.</p>
       <p>
@@ -101,6 +112,8 @@
       </p>
       <a href="https://github.com/Panz-08/Lembar-Komik-UI"><b>→ Lihat Repo</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔌 Komik API</h3>
       <p>API komik multi-sumber dan novel Sakuranovel, lengkap dengan teks chapter. Dibangun dengan Express 5.</p>
@@ -111,16 +124,25 @@
       </p>
       <a href="https://github.com/Panz-08/komik-api-pengembangan"><b>→ Lihat Repo</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚔️ Web-Based Strategy Game</h3>
-      <p>Game strategi berbasis web - eksperimen seru di dunia game development dengan TypeScript.</p>
+      <p>Game strategi teritori 2D real-time melawan bot atau multiplayer P2P, dimainkan langsung di browser.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Game-7C3AED?style=flat-square&logo=gamepad&logoColor=white" />
       </p>
       <a href="https://github.com/Panz-08/Web-Based-Strategy-Game"><b>→ Lihat Repo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ Unciv God Mode</h3>
+      <p>Mod sandbox untuk Unciv: bangsa dewa, unit sakti, bangunan super, dan ekonomi ngebut.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Mod-7C3AED?style=flat-square&logo=gamepad&logoColor=white" />
+        <img src="https://img.shields.io/badge/Unciv-06B6D4?style=flat-square&logo=civicrm&logoColor=white" />
+      </p>
+      <a href="https://github.com/Panz-08/unciv-panz08-god-mode"><b>→ Lihat Repo</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🍅 FirstProject</h3>
