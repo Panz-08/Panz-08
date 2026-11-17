@@ -154,6 +154,26 @@
       <a href="https://github.com/Panz-08/FirstProject"><b>→ Lihat Repo</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📺 Wibu CLI</h3>
+      <p>Streaming anime sub Indo langsung dari terminal, diputar mulus di MPV tanpa buka browser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CLI-06B6D4?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/MPV-7C3AED?style=flat-square&logo=mpv&logoColor=white" />
+      </p>
+      <a href="https://github.com/Panz-08/wibu-cli"><b>→ Lihat Repo</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📖 Sakuranovel API</h3>
+      <p>API metadata dan daftar chapter Sakuranovel, ringan dan siap deploy ke Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/API-7C3AED?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="https://github.com/Panz-08/sakuranovel-api"><b>→ Lihat Repo</b></a>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
