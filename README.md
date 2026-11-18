@@ -39,7 +39,7 @@
       <blockquote>「 Code, coffee, and anime - the perfect stack. 」</blockquote>
     </td>
     <td width="42%" valign="top">
-      <img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY1bWd1ajM1NTN2d2FseDU5dWVmN2gzdTM2cDg0emZpaTczaGpvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvmbZRpwDoTny/giphy.gif" alt="Konata Izumi" />
+      <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeml0ZnlvY2k4cWVyMW1kejJ3ZDh4a2xnaGdzYzMwcWQwd2dvamF4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xkm00YifQYva4ma50z/giphy.gif" alt="Konata Izumi" />
     </td>
   </tr>
 </table>
