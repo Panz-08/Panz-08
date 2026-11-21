@@ -33,7 +33,7 @@
         <li>🌱 Mendalami <b>Rust</b>, <b>Next.js</b>, <b>TypeScript</b>, dan <b>Godot Engine</b></li>
         <li>🛠️ Suka bikin <b>API scraping</b> multi-sumber &amp; tool otomatis</li>
         <li>🎮 Hobi ngulik <b>game development</b> pakai GDScript</li>
-        <li>🎌 Anime, manga, dan light novel enthusiast</li>
+        <li>🎌 Anime, manga, dan light novel enthusiasts</li>
         <li>⚡ Fun fact: bisa ngoding sambil dengerin OST anime 🎧</li>
       </ul>
       <blockquote>「 Code, coffee, and anime - the perfect stack. 」</blockquote>
