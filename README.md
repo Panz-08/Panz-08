@@ -1,20 +1,20 @@
-<!-- Profile README for Panz-08. Contribution visuals are generated automatically. -->
+<!-- Profil README untuk Panz-08. Visual kontribusi dibuat otomatis. -->
 
 # Panz-08
 
-Full-stack developer based in Bogor, Indonesia. I build web applications, APIs, and games, with an emphasis on automation and developer tooling.
+Pengembang full-stack yang berbasis di Bogor, Indonesia. Saya membangun aplikasi web, API, dan permainan dengan fokus pada otomasi serta perkakas pengembang.
 
-- **Currently building:** [Lembar](https://github.com/Panz-08/Lembar-Komik-UI) - comic and novel reader
-- **Recently shipped:** [Sorcerer](https://github.com/Panz-08/sorcerer) - terminal file and document converter
-- **Focus:** Full-stack development, API engineering, game development
-- **Learning:** Rust, Next.js, TypeScript, Godot
-- **Stack:** TypeScript, JavaScript, Node.js, Express, PHP, Python, Rust, React, Next.js, MySQL, PostgreSQL, Godot
+- **Sedang dikembangkan:** [Lembar](https://github.com/Panz-08/Lembar-Komik-UI) - pembaca komik dan novel
+- **Baru dirilis:** [Sorcerer](https://github.com/Panz-08/sorcerer) - konverter berkas dan dokumen untuk terminal
+- **Fokus:** Pengembangan full-stack, rekayasa API, pengembangan permainan
+- **Sedang dipelajari:** Rust, Next.js, TypeScript, Godot
+- **Teknologi:** TypeScript, JavaScript, Node.js, Express, PHP, Python, Rust, React, Next.js, MySQL, PostgreSQL, Godot
 
-## Contribution Activity
+## Aktivitas Kontribusi
 
 <p align="center">
   <a href="https://github.com/Panz-08?tab=overview">
-    <img width="100%" src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Panz-08&bg_color=0D1117&color=8B949E&title_color=58A6FF&line=58A6FF&point=A371F7&area=true&area_color=1F6FEB&hide_border=true&radius=16&custom_title=Contribution%20Activity&days=90&height=350&grid=true" alt="Contribution activity graph for Panz-08" />
+    <img width="100%" src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Panz-08&bg_color=0D1117&color=8B949E&title_color=58A6FF&line=58A6FF&point=A371F7&area=true&area_color=1F6FEB&hide_border=true&radius=16&custom_title=Aktivitas%20Kontribusi&days=90&height=350&grid=true" alt="Grafik aktivitas kontribusi Panz-08" />
   </a>
 </p>
 
@@ -22,39 +22,95 @@ Full-stack developer based in Bogor, Indonesia. I build web applications, APIs, 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Panz-08/Panz-08/main/profile-3d-contrib/profile-night-view.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Panz-08/Panz-08/main/profile-3d-contrib/profile-green.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/Panz-08/Panz-08/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar for Panz-08" />
+    <img width="100%" src="https://raw.githubusercontent.com/Panz-08/Panz-08/main/profile-3d-contrib/profile-night-view.svg" alt="Kalender kontribusi 3D Panz-08" />
   </picture>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Panz-08&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&border_color=30363D&border_radius=16" alt="GitHub statistics for Panz-08" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panz-08&layout=compact&langs_count=8&hide=html,css&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=16" alt="Most used languages by Panz-08" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Panz-08&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&border_color=30363D&border_radius=16" alt="Statistik GitHub Panz-08" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panz-08&layout=compact&langs_count=8&hide=html,css&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=16" alt="Bahasa pemrograman yang paling sering digunakan Panz-08" />
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Panz-08&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=A371F7&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=16" alt="Contribution streak for Panz-08" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=Panz-08&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=A371F7&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=16" alt="Rentetan kontribusi Panz-08" />
 </p>
 
-## Selected Projects
+## Proyek Pilihan
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Sorcerer](https://github.com/Panz-08/sorcerer) | Terminal file and document converter with a ratatui interface, 44 formats, PDF merging, and parallel batch processing. | Rust, ratatui |
-| [Lembar](https://github.com/Panz-08/Lembar-Komik-UI) | Comic and novel reader with a clean reading interface and full chapter text. | Vite, JavaScript, Vercel |
-| [Komik API](https://github.com/Panz-08/komik-api-pengembangan) | Multi-source comic API and Sakuranovel novel API with chapter text. | Express 5, JavaScript, Vercel |
-| [Panzki Browser](https://github.com/Panz-08/panzki-browser) | Interactive web browser for the terminal, written in Rust. | Rust |
-| [Web-Based Strategy Game](https://github.com/Panz-08/Web-Based-Strategy-Game) | Real-time 2D territory strategy game for the browser, with bot matches and P2P multiplayer. | TypeScript |
-| [Unciv God Mode](https://github.com/Panz-08/unciv-panz08-god-mode) | Sandbox mod for Unciv with custom civilizations, units, buildings, and accelerated economy. | JavaScript, Unciv |
-| [Wibu CLI](https://github.com/Panz-08/wibu-cli) | Anime streaming client for the terminal that plays subbed streams in MPV. | Rust, MPV |
-| [Sakuranovel API](https://github.com/Panz-08/sakuranovel-api) | Metadata and chapter list API for Sakuranovel, ready to deploy on Vercel. | JavaScript, Vercel |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Panz-08/sorcerer">Sorcerer</a></h3>
+      <p>Konverter berkas dan dokumen untuk terminal dengan antarmuka ratatui, dukungan 44 format, penggabungan PDF, dan pemrosesan berkas secara paralel.</p>
+      <p><code>Rust</code> <code>ratatui</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Panz-08/Lembar-Komik-UI">Lembar</a></h3>
+      <p>Pembaca komik dan novel dengan antarmuka baca yang bersih serta teks bab lengkap.</p>
+      <p><code>Vite</code> <code>JavaScript</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Panz-08/komik-api-pengembangan">Komik API</a></h3>
+      <p>API komik multi-sumber dan API novel Sakuranovel dengan teks bab.</p>
+      <p><code>Express 5</code> <code>JavaScript</code> <code>Vercel</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Panz-08/panzki-browser">Panzki Browser</a></h3>
+      <p>Peramban web interaktif untuk terminal, ditulis dengan Rust.</p>
+      <p><code>Rust</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Panz-08/Web-Based-Strategy-Game">Web-Based Strategy Game</a></h3>
+      <p>Permainan strategi teritori 2D waktu nyata untuk peramban, dengan mode melawan bot dan multipemain P2P.</p>
+      <p><code>TypeScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Panz-08/unciv-panz08-god-mode">Unciv God Mode</a></h3>
+      <p>Mod sandbox untuk Unciv dengan peradaban, unit, dan bangunan khusus, serta ekonomi yang dipercepat.</p>
+      <p><code>JavaScript</code> <code>Unciv</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Panz-08/wibu-cli">Wibu CLI</a></h3>
+      <p>Klien streaming anime untuk terminal yang memutar siaran bersubtitle Indonesia melalui MPV.</p>
+      <p><code>Rust</code> <code>MPV</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Panz-08/sakuranovel-api">Sakuranovel API</a></h3>
+      <p>API metadata dan daftar bab untuk Sakuranovel, siap dipasang di Vercel.</p>
+      <p><code>JavaScript</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+</table>
 
-More repositories: [github.com/Panz-08?tab=repositories](https://github.com/Panz-08?tab=repositories)
+Repositori lainnya: [github.com/Panz-08?tab=repositories](https://github.com/Panz-08?tab=repositories)
 
-## Contact
+## Kontak
 
-- GitHub: [github.com/Panz-08](https://github.com/Panz-08)
-- Issues: [github.com/Panz-08/Panz-08/issues](https://github.com/Panz-08/Panz-08/issues)
+<p>Terbuka untuk kolaborasi pada proyek API, otomasi, dan pengembangan permainan.</p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Panz-08">GitHub</a></h3>
+      <p>Profil, aktivitas, dan kontribusi publik.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Panz-08?tab=repositories">Repositori</a></h3>
+      <p>Kumpulan proyek dan eksperimen.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Panz-08/Panz-08/issues">Laporan</a></h3>
+      <p>Laporkan masalah atau berikan masukan.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center"><sub>Profile activity is updated automatically via GitHub Actions.</sub></p>
+<p align="center"><sub>Aktivitas profil diperbarui otomatis melalui GitHub Actions.</sub></p>
