@@ -37,4 +37,4 @@ Pengembang full-stack yang berbasis di Bogor, Indonesia. Saya membangun aplikasi
 
 ---
 
-<p align="center"><sub>Aktivitas profil diperbarui otomatis melalui GitHub Actions.</sub></p>
+<p align="center"><sub>PANZ-08</sub></p>
